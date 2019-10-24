@@ -1,5 +1,5 @@
 # Todoリスト (React.js)
-制作日: 2018年末~２０１９年初頃<br><br>
+制作日: 2018年末~2019年初頃<br><br>
 
 https://react-todo-66663.firebaseapp.com/
 
